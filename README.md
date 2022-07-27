@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aditi Shukla
 - 👀 I’m interested in web development(MERN STACK)
-- 🌹 I am currently in my 3rd year of CSE engineering.
-- 🌱 I’m currently looking for paid or unpaid internship
+- 🌹 I am currently in my fourth year of CSE engineering.
 - 📫 How to reach me : aditi.shukla0111@gmail.com
 
 <!---
